@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ReviewLens – AI Review Insights
 
 Upload a CSV of product reviews and get AI-powered sentiment, topics, complaints, strengths and recommendations on a clean dashboard.
@@ -90,3 +91,6 @@ Tests use a fake AI, so they need no API key and make no network calls.
 - Analysis runs in an in-process background task. If the server restarts mid-run, run analysis again; unfinished reviews are picked up.
 - No authentication: anyone with the URL can upload.
 - The free Gemini tier is rate-limited; the app retries 429/5xx errors with backoff.
+=======
+# ReviewLens
+>>>>>>> 191bf47bc278f557440771f3c475c5055919dc83
